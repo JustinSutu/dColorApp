@@ -1,0 +1,19 @@
+{
+  "name": "dcolorapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinSutu/dColorApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinSutu/dColorApp/issues"
+  },
+  "homepage": "https://github.com/JustinSutu/dColorApp/readme"
+}
