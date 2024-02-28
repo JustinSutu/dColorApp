@@ -6,5 +6,6 @@ import (
 )
 
 func RegisterRoutes(router *gin.Engine) {
-	router.GET("/", handlers.GetUsers)
+	router.GET("/list", handlers.GetUsers)
+	router.POST("/userInfo/:userId", handlers.GetUserInfo)
 }
